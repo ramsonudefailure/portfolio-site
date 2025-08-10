@@ -99,7 +99,7 @@ body {
 /* ====== HERO ====== */
 .hero{
   height:100vh; display:flex; align-items:center; justify-content:center; text-align:center; position:relative;
-  background: url('/images/Master.jpg') center/cover no-repeat;
+  background: url('images/Master.jpg') center/cover no-repeat;
   background-attachment: fixed;
   padding: 0 20px;
   overflow:hidden;
@@ -263,3 +263,4 @@ a:focus, button:focus, input:focus, textarea:focus{ outline: 2px solid rgba(255,
 
 /* ====== SMALL POLISH ====== */
 img{ display:block; max-width:100%; height:auto; }
+
